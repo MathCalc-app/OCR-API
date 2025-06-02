@@ -1,0 +1,6 @@
+pytesseract
+Flask
+pillow
+Werkzeug
+python-magic
+flask-limiter
